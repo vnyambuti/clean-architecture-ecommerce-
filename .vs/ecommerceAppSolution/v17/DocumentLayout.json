@@ -1,12 +1,156 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\vic\\source\\repos\\ecommerceAppSolution\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E42835-6584-43AA-925F-A7720F6FD0E8}|eCommerceApp.Application\\eCommerceApp.Application.csproj|c:\\users\\vic\\source\\repos\\ecommerceappsolution\\ecommerceapp.application\\services\\implementations\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E42835-6584-43AA-925F-A7720F6FD0E8}|eCommerceApp.Application\\eCommerceApp.Application.csproj|solutionrelative:ecommerceapp.application\\services\\implementations\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E42835-6584-43AA-925F-A7720F6FD0E8}|eCommerceApp.Application\\eCommerceApp.Application.csproj|c:\\users\\vic\\source\\repos\\ecommerceappsolution\\ecommerceapp.application\\services\\implementations\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E42835-6584-43AA-925F-A7720F6FD0E8}|eCommerceApp.Application\\eCommerceApp.Application.csproj|solutionrelative:ecommerceapp.application\\services\\implementations\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E42835-6584-43AA-925F-A7720F6FD0E8}|eCommerceApp.Application\\eCommerceApp.Application.csproj|c:\\users\\vic\\source\\repos\\ecommerceappsolution\\ecommerceapp.application\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E42835-6584-43AA-925F-A7720F6FD0E8}|eCommerceApp.Application\\eCommerceApp.Application.csproj|solutionrelative:ecommerceapp.application\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E42835-6584-43AA-925F-A7720F6FD0E8}|eCommerceApp.Application\\eCommerceApp.Application.csproj|c:\\users\\vic\\source\\repos\\ecommerceappsolution\\ecommerceapp.application\\services\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E42835-6584-43AA-925F-A7720F6FD0E8}|eCommerceApp.Application\\eCommerceApp.Application.csproj|solutionrelative:ecommerceapp.application\\services\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E42835-6584-43AA-925F-A7720F6FD0E8}|eCommerceApp.Application\\eCommerceApp.Application.csproj|c:\\users\\vic\\source\\repos\\ecommerceappsolution\\ecommerceapp.application\\dtos\\product\\getproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E42835-6584-43AA-925F-A7720F6FD0E8}|eCommerceApp.Application\\eCommerceApp.Application.csproj|solutionrelative:ecommerceapp.application\\dtos\\product\\getproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E42835-6584-43AA-925F-A7720F6FD0E8}|eCommerceApp.Application\\eCommerceApp.Application.csproj|c:\\users\\vic\\source\\repos\\ecommerceappsolution\\ecommerceapp.application\\dtos\\response\\serviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E42835-6584-43AA-925F-A7720F6FD0E8}|eCommerceApp.Application\\eCommerceApp.Application.csproj|solutionrelative:ecommerceapp.application\\dtos\\response\\serviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E42835-6584-43AA-925F-A7720F6FD0E8}|eCommerceApp.Application\\eCommerceApp.Application.csproj|c:\\users\\vic\\source\\repos\\ecommerceappsolution\\ecommerceapp.application\\dtos\\category\\getcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E42835-6584-43AA-925F-A7720F6FD0E8}|eCommerceApp.Application\\eCommerceApp.Application.csproj|solutionrelative:ecommerceapp.application\\dtos\\category\\getcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A028E87-BED2-40E4-B990-6DAF79E6AAAA}|eCommerceApp.Infrastructure\\eCommerceApp.Infrastructure.csproj|c:\\users\\vic\\source\\repos\\ecommerceappsolution\\ecommerceapp.infrastructure\\ecommerceapp.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0A028E87-BED2-40E4-B990-6DAF79E6AAAA}|eCommerceApp.Infrastructure\\eCommerceApp.Infrastructure.csproj|solutionrelative:ecommerceapp.infrastructure\\ecommerceapp.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\vic\\source\\repos\\ecommerceAppSolution\\eCommerceApp.Application\\Services\\Implementations\\CategoryService.cs",
+              "RelativeDocumentMoniker": "eCommerceApp.Application\\Services\\Implementations\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\vic\\source\\repos\\ecommerceAppSolution\\eCommerceApp.Application\\Services\\Implementations\\CategoryService.cs",
+              "RelativeToolTip": "eCommerceApp.Application\\Services\\Implementations\\CategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T22:40:07.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\vic\\source\\repos\\ecommerceAppSolution\\eCommerceApp.Application\\Services\\Implementations\\ProductService.cs",
+              "RelativeDocumentMoniker": "eCommerceApp.Application\\Services\\Implementations\\ProductService.cs",
+              "ToolTip": "C:\\Users\\vic\\source\\repos\\ecommerceAppSolution\\eCommerceApp.Application\\Services\\Implementations\\ProductService.cs",
+              "RelativeToolTip": "eCommerceApp.Application\\Services\\Implementations\\ProductService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T22:38:40.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ServiceResponse.cs",
+              "DocumentMoniker": "C:\\Users\\vic\\source\\repos\\ecommerceAppSolution\\eCommerceApp.Application\\DTOS\\Response\\ServiceResponse.cs",
+              "RelativeDocumentMoniker": "eCommerceApp.Application\\DTOS\\Response\\ServiceResponse.cs",
+              "ToolTip": "C:\\Users\\vic\\source\\repos\\ecommerceAppSolution\\eCommerceApp.Application\\DTOS\\Response\\ServiceResponse.cs",
+              "RelativeToolTip": "eCommerceApp.Application\\DTOS\\Response\\ServiceResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T21:56:06.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetCategory.cs",
+              "DocumentMoniker": "C:\\Users\\vic\\source\\repos\\ecommerceAppSolution\\eCommerceApp.Application\\DTOS\\Category\\GetCategory.cs",
+              "RelativeDocumentMoniker": "eCommerceApp.Application\\DTOS\\Category\\GetCategory.cs",
+              "ToolTip": "C:\\Users\\vic\\source\\repos\\ecommerceAppSolution\\eCommerceApp.Application\\DTOS\\Category\\GetCategory.cs",
+              "RelativeToolTip": "eCommerceApp.Application\\DTOS\\Category\\GetCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T21:36:32.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetProduct.cs",
+              "DocumentMoniker": "C:\\Users\\vic\\source\\repos\\ecommerceAppSolution\\eCommerceApp.Application\\DTOS\\Product\\GetProduct.cs",
+              "RelativeDocumentMoniker": "eCommerceApp.Application\\DTOS\\Product\\GetProduct.cs",
+              "ToolTip": "C:\\Users\\vic\\source\\repos\\ecommerceAppSolution\\eCommerceApp.Application\\DTOS\\Product\\GetProduct.cs",
+              "RelativeToolTip": "eCommerceApp.Application\\DTOS\\Product\\GetProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T21:34:25.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\vic\\source\\repos\\ecommerceAppSolution\\eCommerceApp.Application\\Services\\Interfaces\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "eCommerceApp.Application\\Services\\Interfaces\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\vic\\source\\repos\\ecommerceAppSolution\\eCommerceApp.Application\\Services\\Interfaces\\ICategoryService.cs",
+              "RelativeToolTip": "eCommerceApp.Application\\Services\\Interfaces\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T21:22:41.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\vic\\source\\repos\\ecommerceAppSolution\\eCommerceApp.Application\\Services\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "eCommerceApp.Application\\Services\\Interfaces\\IProductService.cs",
+              "ToolTip": "C:\\Users\\vic\\source\\repos\\ecommerceAppSolution\\eCommerceApp.Application\\Services\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "eCommerceApp.Application\\Services\\Interfaces\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T21:22:20.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "eCommerceApp.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\vic\\source\\repos\\ecommerceAppSolution\\eCommerceApp.Infrastructure\\eCommerceApp.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "eCommerceApp.Infrastructure\\eCommerceApp.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\vic\\source\\repos\\ecommerceAppSolution\\eCommerceApp.Infrastructure\\eCommerceApp.Infrastructure.csproj",
+              "RelativeToolTip": "eCommerceApp.Infrastructure\\eCommerceApp.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-13T21:17:51.637Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

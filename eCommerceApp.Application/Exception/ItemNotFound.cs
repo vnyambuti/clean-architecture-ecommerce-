@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace eCommerceApp.Application.Exception
 {
-    class ItemNotFound
+   public class ItemNotFound(string message):IOException(message)
     {
     }
 }
